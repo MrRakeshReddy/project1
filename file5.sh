@@ -1,4 +1,5 @@
-o -n "Enter File Name : "
+#!/bin/bash
+echo -n "Enter File Name : "
 read fileName
 
 if [ ! -f $fileName ]; then
