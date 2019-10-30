@@ -10,4 +10,3 @@ fi
 
 tr '[A-Z]' '[a-z]' <$fileName >>small.txt
 
-echo "baby new change ahh!!"
